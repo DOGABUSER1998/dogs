@@ -11,7 +11,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 	Icon = "5107182098"; 
 	Duration = 5; 
 	Button1 = "okay jit";
-   Button1 = "i literally do not care";
+   	Button2 = "i literally do not care";
 })
 
 
